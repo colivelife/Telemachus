@@ -1,4 +1,5 @@
 import superagent from 'superagent';
+// import Xray from 'x-ray';
 import config from '../config';
 
 const methods = ['get', 'post', 'put', 'patch', 'del'];
